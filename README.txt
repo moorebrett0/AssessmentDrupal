@@ -1,4 +1,34 @@
 
+BookStore
+——————————
+A simple bookstore website powered by Drupal
+
+installation instructions
+———————————————————————
+Follow the drupal set up guide,
+select the bookstore database file to import.
+
+USER ROLES
+————————————
+username: Brett
+password: admin
+
+database: bookstore
+password: admin
+
+Reviewer:
+username: blogger
+password: blogger
+
+CREATED BY BRETT MOORE ALL RIGHTS RESERVED 2015.
+
+
+
+
+
+
+
+
 CONTENTS OF THIS FILE
 ---------------------
 
